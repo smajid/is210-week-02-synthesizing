@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-"""This is Charlie the Chocolate Factory"""
+"""This is the person who owns a huge place to make sweet treats."""
 
 
 CHARLIE = "Chocolate Factory"
